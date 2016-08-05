@@ -1,0 +1,41 @@
+_repo: The-History-of-a-Mouthful-of-Bread--13-And-its-effect-on-the-organization-of-men-and-animals_6970
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Gatty, Alfred, Mrs.
+    alias: Gatty, Margaret Scott
+    birthdate: 1809
+    deathdate: 1873
+    gutenberg_agent_id: '1691'
+    url: http://www.gutenberg.org/2009/agents/1691
+creator:
+  author:
+    agent_name: Macé, Jean
+    aliases:
+    - Moreau, Jean
+    - Mace, Jean
+    birthdate: 1815
+    deathdate: 1894
+    gutenberg_agent_id: '2282'
+    url: http://www.gutenberg.org/2009/agents/2282
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6970'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Human anatomy -- Juvenile literature'
+- !lcsh 'Physiology -- Juvenile literature'
+- !lcsh 'Natural history -- Study and teaching'
+- !lcc 'QP'
+- !lcsh 'Natural history -- Juvenile literature'
+- !lcc 'LA'
+- !lcsh 'Education'
+- GITenberg
+title: "The History of a Mouthful of Bread\r\nAnd its effect on the organization of\
+  \ men and animals"
+url: http://www.gutenberg.org/ebooks/6970
