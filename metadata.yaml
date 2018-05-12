@@ -1,5 +1,5 @@
 _repo: The-History-of-a-Mouthful-of-Bread--13-And-its-effect-on-the-organization-of-men-and-animals_6970
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Gatty, Alfred, Mrs.
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1873
     gutenberg_agent_id: '1691'
     url: http://www.gutenberg.org/2009/agents/1691
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Macé, Jean
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '2282'
     url: http://www.gutenberg.org/2009/agents/2282
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6970#The-History-of-a-Mouthful-of-Bread--13-And-its-effect-on-the-organization-of-men-and-animals
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
 identifiers:
